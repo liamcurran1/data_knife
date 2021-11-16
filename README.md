@@ -4,7 +4,7 @@
 
 This project is aimed at providing a full web application for carrying
 out data management tasks associated with curating and building datasets
-for anaylysis. It consists of four components which together will make
+for analysis. It consists of four components which together will make
 up the full web application. However, it is being released in stages
 according to the following timescale.
 
